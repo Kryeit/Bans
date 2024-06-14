@@ -1,5 +1,21 @@
 [
   {
+    "uuid": "63455bb8-1c5d-4369-a444-9d5b7f3d7160",
+    "name": "thefunguy1234",
+    "created": "2024-06-05 20:48:31 +0000",
+    "source": "MuriPlz",
+    "expires": "forever",
+    "reason": "griefs to get 1 nugget of iron, mastermind"
+  },
+  {
+    "uuid": "539e1403-455b-4aef-82ec-c0ac2b0ece17",
+    "name": "ImWaxyd",
+    "created": "2024-05-16 15:44:16 +0000",
+    "source": "MuriPlz",
+    "expires": "forever",
+    "reason": "Broken tracks"
+  },
+  {
     "uuid": "caa885b6-759b-461c-81db-103df05fa0d3",
     "name": "Newfoundd",
     "created": "2024-01-28 17:51:25 +0000",
@@ -8,12 +24,12 @@
     "reason": "Griefer. Griefs while typing in chat \u0027I\u0027m the god of this server!!!\u0027"
   },
   {
-    "uuid": "653ec576-f456-4892-aaf0-1d014845c710",
-    "name": "Do_you_know_wae",
-    "created": "2024-02-08 21:37:53 +0000",
+    "uuid": "88eb3555-eb9d-4fa7-aefe-d639720beaa5",
+    "name": "Carapapa21",
+    "created": "2024-05-31 14:39:31 +0000",
     "source": "MuriPlz",
     "expires": "forever",
-    "reason": "Griefer. Insults."
+    "reason": "griefs"
   },
   {
     "uuid": "3f8084d3-e53f-410e-a539-99e90e8f6e76",
@@ -29,7 +45,7 @@
     "created": "2024-02-10 16:02:00 +0000",
     "source": "Server",
     "expires": "forever",
-    "reason": "Griefer, learning the flaws of the claim system. Insults."
+    "reason": "Abusing the claim system."
   },
   {
     "uuid": "1c269fe0-a303-422c-963a-7c801c00630c",
@@ -53,7 +69,7 @@
     "created": "2024-03-10 12:15:29 +0000",
     "source": "Server",
     "expires": "forever",
-    "reason": "Hacking, always uses weird excuses, but he will keep hacking"
+    "reason": "Use of hack mods"
   },
   {
     "uuid": "95f1c95e-b438-47c6-9148-a12e3b66917b",
@@ -72,12 +88,20 @@
     "reason": "Insults, doesn\u0027t realize what \u0027beta\u0027 is"
   },
   {
+    "uuid": "f2dad6cd-4561-44da-a9e7-edadb89d78ab",
+    "name": "JackIngof123",
+    "created": "2024-06-11 19:29:10 +0000",
+    "source": "MuriPlz",
+    "expires": "forever",
+    "reason": "racist"
+  },
+  {
     "uuid": "6c19d070-76f5-460f-afce-bde79072faab",
     "name": "hackerboy_69",
     "created": "2024-02-28 15:32:31 +0000",
     "source": "Server",
     "expires": "forever",
-    "reason": "Insults. DM\u0027s new users in discord about his opinion on the server"
+    "reason": "Insults."
   },
   {
     "uuid": "2e018940-e481-4ced-8ec5-1aaeddc83fd6",
@@ -94,6 +118,14 @@
     "source": "MuriPlz",
     "expires": "forever",
     "reason": "Steals."
+  },
+  {
+    "uuid": "bb0e43a6-6a88-4bde-91b4-67d5358b386a",
+    "name": "hgeds",
+    "created": "2024-05-18 22:56:58 +0000",
+    "source": "MuriPlz",
+    "expires": "forever",
+    "reason": "stealer"
   },
   {
     "uuid": "af861646-7917-456c-ac6c-184b040f893e",
